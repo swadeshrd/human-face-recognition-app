@@ -1,0 +1,5 @@
+opencv-python==4.5.4.60
+numpy==1.21.4
+black
+flake8
+isort
